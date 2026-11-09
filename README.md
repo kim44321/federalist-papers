@@ -439,8 +439,8 @@ Potential improvements include:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/kim44321/federalist-papers/
+cd https://github.com/kim44321/federalist-papers/
 ```
 
 Install the required Python packages:
