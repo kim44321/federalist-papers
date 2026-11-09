@@ -414,7 +414,7 @@ Although the implemented features produced promising classification results, sev
 
 8. **Binary Classification:** The final model only distinguishes between Hamilton and Madison. It cannot identify joint authorship or attribute a paper to an author outside these two classes.
 
-9. **Probability Interpretation:** The predicted probabilities have not been independently calibrated and should not be interpreted as actual probabilities of historical authorship. Paper 55's classification also changes with class weighing.
+9. **Probability Interpretation:** The predicted probabilities have not been independently calibrated and should not be interpreted as actual probabilities of historical authorship. Paper 55's classification also changes with class weighting.
 ### Future Improvements
 
 Potential improvements include:
